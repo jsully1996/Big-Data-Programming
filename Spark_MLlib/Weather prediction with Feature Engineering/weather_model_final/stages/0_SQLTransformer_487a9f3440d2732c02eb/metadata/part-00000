@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1548502089623,"sparkVersion":"2.3.1","uid":"SQLTransformer_487a9f3440d2732c02eb","paramMap":{"statement":"SELECT  station, dayofyear(date) as dayofyr, latitude, longitude, elevation,tmax  FROM __THIS__"}}
